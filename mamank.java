@@ -1,5 +1,5 @@
 public class mamank {
     public static void main(String[] args) {
-        System.out.println("Test macan");
+        System.out.println("Test mamank");
     }
 }
